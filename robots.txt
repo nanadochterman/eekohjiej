@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oohogeico.eugene4.com/sitemap.xml
